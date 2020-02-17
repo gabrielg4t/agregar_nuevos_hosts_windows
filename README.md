@@ -11,8 +11,6 @@ Permite agregar nuevas líneas al archivo hosts de windows.
 Ej.
 
 ECHO 127.0.0.1 prueba.com
-ECHO 127.0.0.1 youtube.com
-
 
 # Add new Windows hosts
 
@@ -27,4 +25,3 @@ It allows adding new lines to the windows hosts file.
 Ex.
 
 ECHO 127.0.0.1 prueba.com
-ECHO 127.0.0.1 youtube.com
