@@ -10,7 +10,7 @@ Permite agregar nuevas líneas al archivo hosts de windows.
 + Para agregar nuestros host o direcciones tenemos que colocarlas despues de ECHO de esta forma:
 Ej.
 
-ECHO 127.0.0.1 www.prueba.com
+ECHO 127.0.0.1 prueba.com
 ECHO 127.0.0.1 youtube.com
 
 
@@ -26,5 +26,5 @@ It allows adding new lines to the windows hosts file.
 + To add our hosts or addresses we have to place them after ECHO in this way:
 Ex.
 
-ECHO 127.0.0.1 www.prueba.com
+ECHO 127.0.0.1 prueba.com
 ECHO 127.0.0.1 youtube.com
